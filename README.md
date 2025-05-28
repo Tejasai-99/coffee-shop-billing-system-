@@ -1,10 +1,10 @@
-# ☕ Coffee Shop Billing System
+# Coffee Shop Billing System
 
 This is a simple Python-based command-line billing system for a coffee shop. It allows users to select items from a predefined menu, calculates the total price with GST, accepts payment, and prints a formatted bill.
 
 ---
 
-## 📋 Features
+## Features
 
 - Interactive menu for item selection
 - Uses Python dictionaries for item-price mapping
@@ -14,14 +14,14 @@ This is a simple Python-based command-line billing system for a coffee shop. It 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python 3
 - Command-line Interface (CLI)
 
 ---
 
-## 🧾 Sample Menu
+## Sample Menu
 
 Americano        - ₹85  
 Caramel          - ₹90  
@@ -38,7 +38,7 @@ Milk Tea         - ₹20
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone or download this repository.
 2. Run the script using Python:
